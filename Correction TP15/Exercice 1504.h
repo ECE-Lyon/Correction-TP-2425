@@ -1,6 +1,3 @@
-//
-// Created by djtou on 20/12/2024.
-//
 
 #ifndef CORRECTION_TP_2425_EXERCICE_1504_H
 #define CORRECTION_TP_2425_EXERCICE_1504_H
