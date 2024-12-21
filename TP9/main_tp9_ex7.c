@@ -23,7 +23,7 @@ int main(void) {
     float e = 9.8f;
     float *f = &e;
 
-    printf("Valeur de d : %c\n", d);
+    printf("\nValeur de d : %c\n", d);
     printf("Adresse de d : %p\n", &d);
 
     printf("\nValeur de b (adresse de d) : %p\n", b);
