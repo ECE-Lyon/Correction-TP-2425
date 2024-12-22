@@ -28,7 +28,15 @@ add_executable(TP10_EX7 TP10/exo1007/main_tp10_ex7.c TP10/exo1007/exo1007.c TP10
 add_executable(TP10_EX8 TP10/exo1008/main_tp10_ex8.c TP10/exo1008/exo1008.c TP10/exo1008/exo1008.h)
 
 add_executable(TP15
-        "TP15/Exercice 1501.c"
-        "TP15/Exercice 1501.h"
+        "TP15/Exercice 1/Exercice 1501.c"
+        "TP15/Exercice 1/Exercice 1501.h"
         TP15/main.c
+        "TP15/Exercice 2/Exercice 1502.c"
+        "TP15/Exercice 2/Exercice 1502.h"
+        "TP15/Exercice 3/Exercice 1503.c"
+        "TP15/Exercice 3/Exercice 1503.h"
+        "TP15/Exercice 4/Exercice 1504.c"
+        "TP15/Exercice 4/Exercice 1504.h"
+        "TP15/Exercice 5/Exercice 1505.c"
+        "TP15/Exercice 5/Exercice 1505.h"
 )
